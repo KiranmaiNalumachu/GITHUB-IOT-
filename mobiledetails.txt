@@ -1,3 +1,4 @@
 Name : redmi
-version : 12.0
+version : 14.0
 Ram : 64 gb
+camera px :50px
