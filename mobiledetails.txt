@@ -4,3 +4,4 @@ Ram : 64 gb
 version 100.0
 camera px :50px
 version : 14.5
+version : 70.0
