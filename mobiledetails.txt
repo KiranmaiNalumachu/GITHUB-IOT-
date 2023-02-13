@@ -1,0 +1,3 @@
+Name : redmi
+version : 12.0
+Ram : 64 gb
