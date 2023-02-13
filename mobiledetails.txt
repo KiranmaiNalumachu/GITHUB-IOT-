@@ -2,10 +2,9 @@ Name : redmi
 version : 14.0
 Ram : 64 gb
 version 100.0
+Hi everyone
 camera px :50px
 version : 14.5
 version : 30.0
 version : 1.0
 hello
-
-
